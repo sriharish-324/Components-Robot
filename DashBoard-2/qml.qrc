@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginPrompt.qml</file>
+        <file>FrontPage.qml</file>
+        <file>L_T.qml</file>
+        <file>R_T.qml</file>
+        <file>L_B.qml</file>
+        <file>R_B.qml</file>
+        <file>R_B_Program.qml</file>
+        <file>R_B_Prog_RadiusButton.qml</file>
+        <file>R_B_Prog_SpeedButton.qml</file>
+        <file>R_B_Prog_SpeedButton1.qml</file>
+        <file>R_B_Prog_InstructionCombo.qml</file>
+        <file>R_B_Prog_DigitalCombo.qml</file>
+        <file>R_B_Prog_ProfileCombo.qml</file>
+        <file>R_B_Prog_Adc.qml</file>
+        <file>Area.qml</file>
+        <file>AxisSliderX.qml</file>
+        <file>AxisSliderY.qml</file>
+        <file>AxisSliderZ.qml</file>
+        <file>DropMenus.qml</file>
+        <file>Exit.qml</file>
+        <file>RunPause.qml</file>
+        <file>ServoSwitch.qml</file>
+        <file>StartStop.qml</file>
+        <file>Home.qml</file>
+        <file>HomePosition.qml</file>
+        <file>ResetButtonx.qml</file>
+        <file>ResetButtony.qml</file>
+        <file>ResetButtonz.qml</file>
+        <file>MonitoringLog.qml</file>
+    </qresource>
+</RCC>
